@@ -9,7 +9,7 @@ function page() {
         
         
      
-    rewrwerwe
+  Data Page
 
       
         </div>
