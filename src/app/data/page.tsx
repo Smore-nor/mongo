@@ -1,7 +1,7 @@
 
 
 import React from 'react'
-import Database from '../database/page'
+
 
 function page() {
   return (
@@ -9,8 +9,7 @@ function page() {
         
         
      
-      <Database/>
-
+    rewrwerwe
 
       
         </div>
